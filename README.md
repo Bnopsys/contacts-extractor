@@ -107,9 +107,4 @@ def format_phone_number(phone_number):
     formatted_number = pattern.sub(r'(\1) \2-\3', phone_number)
 
     return formatted_number
-```# contacts-extractor
-# contacts-extractor
-# contacts-extractor
-# contacts-extractor
-# contacts-extractor
-# contacts-extractor
+```
